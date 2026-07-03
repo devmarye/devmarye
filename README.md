@@ -12,7 +12,31 @@ I’m passionate about building applications that solve real-world problems, and
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [maryelekee@gmail.com](mailto:maryelekee@gmail.com)
 
+## What I’m Currently Building & Strengthening
 
+I’m currently deepening my Cloud and DevOps skills by building hands-on projects and practicing real-world AWS use cases.
+
+My current focus includes:
+
+- AWS core services such as EC2, S3, IAM, VPC, RDS, Lambda, and CloudWatch
+- Infrastructure as Code with Terraform
+- CI/CD pipelines with GitHub Actions
+- Linux fundamentals and basic scripting
+- Cloud security and IAM best practices
+- Highly available architecture on AWS
+- Monitoring, logging, and troubleshooting cloud systems
+
+## My Cloud Learning Focus
+
+I believe the best way to learn cloud is by building real projects and documenting the process.
+
+Some of the projects I’m working on or planning to build include:
+
+- Highly available web application on AWS
+- Serverless applications using AWS Lambda, API Gateway, and DynamoDB
+- Infrastructure automation with Terraform
+- CI/CD pipelines for application deployment
+- Monitoring and observability with CloudWatch
 ### Skills
 
 
