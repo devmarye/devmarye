@@ -1,5 +1,5 @@
 
-Hi 👋 I am Dev Mary 
+Hi 👋 I am Mary 
 ==============================
 
 I’m a Software Engineer with experience building modern web applications and a growing focus in Cloud Engineering, AWS, and DevOps. 
